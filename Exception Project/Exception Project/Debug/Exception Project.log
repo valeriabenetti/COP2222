@@ -1,0 +1,3 @@
+﻿  Exception Project.cpp
+C:\Users\winte\OneDrive\Desktop\COP2222\Exception Project\Exception Project\ProductionWorker.h(25,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Exception Project.vcxproj -> C:\Users\winte\OneDrive\Desktop\COP2222\Exception Project\Debug\Exception Project.exe
